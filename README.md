@@ -1,13 +1,12 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
-
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+# Bem-Vindo
+## Eu sou Julia !
+ #### Aqui deixo meus conhecimentos e alguns projetos como repositório e amostra de trabalho.
+ #### "A melhor forma de conquistar a credibilidade profissional hoje em dia é "Compartilhando Conhecimento".
+ #### Espero que aproveite a visita!
+## Contato
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jbonifacio92)](https://github.com/jbonifacio92)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jmrbonifacio?trk=public_profile_browsemap)](https://br.linkedin.com/in/jmrbonifacio?trk=public_profile_browsemap)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+11+946367105&text=Olá!)](https://api.whatsapp.com/send?phone=55+11+980853786&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasalvesdeoliveira016@gmail.com
+)](mailto:jbonifacio@montana.com.br
+)
